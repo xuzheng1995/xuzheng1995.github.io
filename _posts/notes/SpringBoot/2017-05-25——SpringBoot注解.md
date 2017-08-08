@@ -4,8 +4,8 @@ title: "SpringBoot注解"
 date: 2017-07-25 09:00:00 +0800 
 categories: 笔记
 tags: 
- - Responsive
- - Performance
+ - SpringBoot
+ - Annotation
 ---
 * content
 {:toc}
@@ -16,7 +16,7 @@ tags:
 
 <!-- more -->
 
-## 显然不正确的模式
+## 显然不正确的模式 <!--  sdas -->
 
 我们可以在[`The Search Agency`](https://www.thesearchagency.com/our-work/white-papers/)得到一些有关`.m`网站和响应式网站比较的一些报告。设计网站的时候，这样的一些*反模式*值得我们注意：
 
