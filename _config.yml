@@ -8,8 +8,7 @@ github: https://github.com/xuzheng1995/
 baseurl: ""  #根目录
 description: Xu Zheng的博客
 motto: 虽非路飞，却有D的意志。
-#motto: 如果生活欺骗了你，不要悲伤，不要哭泣。
-banner: 我想带你去看绚丽的山峦，去看秀丽的溪谷，这份心情，人类是如何称呼的呢。
+banner: 自己做的决定不要想着后悔，那样也是无法改变现状，要学会做不再后悔的决定
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 excerpt_separator:  '<!-- more -->' #文章摘要
