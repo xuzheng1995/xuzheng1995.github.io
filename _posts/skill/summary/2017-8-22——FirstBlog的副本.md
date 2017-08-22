@@ -2,8 +2,8 @@
 layout: post
 title: "第22个生日"
 date: 2017-08-22 18:00:00 +0800
-categories: 其他
-tag: other
+categories: 研究生涯
+tag: JavaScript
 ---
 * content
 {:toc}
