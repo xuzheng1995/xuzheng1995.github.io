@@ -2,8 +2,8 @@
 layout: post
 title: "自己第一个技术博客"
 date: 2017-08-22 18:00:00 +0800 
-categories: 面试与笔试经历
-tag: Interview
+categories: 其他
+tag: Other
 ---
 * content
 {:toc}
