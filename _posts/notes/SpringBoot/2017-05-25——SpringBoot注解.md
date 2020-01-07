@@ -4,8 +4,7 @@ title: "SpringBoot注解"
 date: 2017-07-25 09:00:00 +0800 
 categories: 笔记
 tags: 
- - SpringBoot
- - Annotation
+  SpringBoot
 ---
 * content
 {:toc}
