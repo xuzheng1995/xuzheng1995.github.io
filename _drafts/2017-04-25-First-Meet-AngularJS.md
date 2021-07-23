@@ -29,7 +29,7 @@ tag: AngularJS
 <head>
     <meta charset="UTF-8">
     <title>My First AngularJS</title>
-    <script src="http://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
+    <script src="https://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
 </head>
 <body>
 <p> {{"Hello World!"}}</p>
@@ -62,7 +62,7 @@ tag: AngularJS
 <head>
     <meta charset="UTF-8">
     <title>My First AngularJS</title>
-    <script src="http://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
+    <script src="https://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
 </head>
 <body>
 <h3>Sum two numbers:</h3>
@@ -83,7 +83,7 @@ tag: AngularJS
 <head>
     <meta charset="UTF-8">
     <title>My First AngularJS</title>
-    <script src="http://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
+    <script src="https://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
 </head>
 <body ng-init="person={'name':'timi'};arr=['i','love','china']">
     <p>{{person.name}}</p>
@@ -104,7 +104,7 @@ tag: AngularJS
 <head>
     <meta charset="UTF-8">
     <title>My First AngularJS</title>
-    <script src="http://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
+    <script src="https://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
 </head>
 <body>
 <form >
@@ -212,7 +212,7 @@ app.controller('FirstController',function($scope){
 <head>
     <meta charset="UTF-8">
     <title>My First AngularJS</title>
-    <script src="http://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
+    <script src="https://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
     <style>
         ul {padding-left: 0px;}
         li {list-style-type:none;}
@@ -278,7 +278,7 @@ app.controller('FirstController',function($scope){
 <head>
     <meta charset="UTF-8">
     <title>My First AngularJS</title>
-    <script src="http://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
+    <script src="https://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap-theme.min.css">
 </head>
